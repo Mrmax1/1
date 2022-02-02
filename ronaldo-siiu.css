@@ -1,0 +1,18 @@
+body{
+	background-image: url(../img/ron.gif);
+	background-repeat: no-repeat;
+}
+
+header{
+	background: red;
+	height: 100px;
+}
+
+div{
+	background: darkgreen;
+	color: yellow;
+
+}
+button{
+	margin-bottom: 50px;
+}
